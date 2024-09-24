@@ -55,7 +55,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/alfama-533877690.jpeg
           altText: Second item image
         actions:
           - type: Button
