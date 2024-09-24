@@ -27,7 +27,7 @@ sections:
       url: /images/alfama-lisbon-guide-3229600432.jpg
       altText: Imagem representativa de Alfama
   - type: CardsSection
-    title: 'Sobre Alfama:'
+    title: 'Mais sobre Alfama:'
     subtitle: Section subtitle here
     items:
       - type: Card
