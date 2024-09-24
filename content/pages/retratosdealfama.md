@@ -11,7 +11,7 @@ sections:
       a uma pequena aldeia dentro de uma grande cidade.</div>
     actions:
       - type: Button
-        label: Start Building
+        label: Start Buildin
         url: 'https://docs.netlify.com/create/getting-started/'
         size: large
         variant: contained
