@@ -38,7 +38,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Things-to-do-in-Alfama-16.webp
           altText: First item image
         actions:
           - type: Button
