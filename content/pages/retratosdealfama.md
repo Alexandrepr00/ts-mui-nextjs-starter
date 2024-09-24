@@ -28,7 +28,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: 'Mais sobre a pesquisa:'
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
