@@ -36,7 +36,8 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: >-
+              https://create.netlify.com/studio/66f28cca1aec7600c3363b98#/a-preservacao-da-tradicao-em-tempos-modernos
             size: medium
             variant: text
             color: primary
