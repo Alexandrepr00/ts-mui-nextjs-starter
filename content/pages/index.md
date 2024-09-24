@@ -46,7 +46,7 @@ sections:
         title: 'Vídeos '
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/alfama-533877690.jpeg
           altText: Second item image
         text: ''
         actions:
