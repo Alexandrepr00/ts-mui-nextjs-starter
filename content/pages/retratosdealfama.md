@@ -34,24 +34,13 @@ sections:
         title: |-
           A
           Preservação da Tradição em Tempos Modernos
-        text: >+
-
-
-
-
+        text: >
           Como é que Alfama consegue manter suas tradições culturais e
 
           históricas, como o fado e as festas populares, mesmo diante da
           modernização e
 
-          do desenvolvimento urbano.
-
-
-
-
-
-
-
+          do desenvolvimento urbano?
         image:
           type: Image
           url: /images/Things-to-do-in-Alfama-16.webp
