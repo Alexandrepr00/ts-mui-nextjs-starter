@@ -28,7 +28,7 @@ sections:
       altText: Imagem representativa de Alfama
   - type: CardsSection
     title: 'Mais sobre Alfama:'
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: Imagens
