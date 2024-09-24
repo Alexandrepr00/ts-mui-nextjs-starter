@@ -41,6 +41,7 @@ sections:
           - type: Button
             label: ''
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            variant: text
       - type: Card
         title: 'Vídeos '
         image:
