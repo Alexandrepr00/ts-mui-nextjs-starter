@@ -31,7 +31,9 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Histórias
+        title: |-
+          A
+          Preservação da Tradição em Tempos Modernos
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
