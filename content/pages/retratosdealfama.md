@@ -56,10 +56,24 @@ sections:
         title: |-
           A
           Transformação Urbana de Alfama: Entre o Passado e o Futuro
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+
+
+
+
+          As transformações urbanísticas em Alfama, como a
+
+          restauração de edifícios antigos, a construção de novas
+          infraestruturas e o
+
+          equilíbrio entre preservação histórica e desenvolvimento moderno.
+
+
+
+
+
+
+
         image:
           type: Image
           url: /images/alfama-533877690.jpeg
