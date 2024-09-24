@@ -53,7 +53,9 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Vidas
+        title: |-
+          . A
+          Transformação Urbana de Alfama: Entre o Passado e o Futuro
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
