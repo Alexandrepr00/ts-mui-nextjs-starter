@@ -9,13 +9,7 @@ sections:
       <div style="text-align: left">Alfama é frequentemente chamada de "aldeia
       urbana" de Lisboa devido às suas características únicas, que se assemelham
       a uma pequena aldeia dentro de uma grande cidade.</div>
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/alfama-lisbon-guide-3229600432.jpg
