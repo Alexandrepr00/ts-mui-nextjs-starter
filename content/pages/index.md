@@ -53,6 +53,7 @@ sections:
           - type: Button
             label: ''
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            size: small
       - type: Card
         title: Áudios
         image:
