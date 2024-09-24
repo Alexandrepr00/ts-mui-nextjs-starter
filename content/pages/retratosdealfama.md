@@ -86,7 +86,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Identidade
+        title: 'As Desigualdades Sociais em Alfama: Tradição e Exclusão'
         text: |+
           As Desigualdades Sociais em Alfama: Tradição e Exclusão
 
