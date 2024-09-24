@@ -5,11 +5,10 @@ sections:
   - type: HeroSection
     title: Retratos de Alfama
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Alfama é frequentemente chamada de "aldeia urbana" de Lisboa devido às
+      suas características únicas, que se assemelham a uma pequena aldeia dentro
+      de uma grande cidade.
     actions:
       - type: Button
         label: Start Building
