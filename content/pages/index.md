@@ -57,7 +57,7 @@ sections:
         title: Áudios
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/alfama-533877690.jpeg
           altText: Third item image
         text: ''
         actions:
