@@ -27,7 +27,7 @@ sections:
       url: /images/alfama-lisbon-guide-3229600432.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
+    title: 'Mais sobre a pesquisa:'
     subtitle: The section subtitle
     items:
       - type: Card
