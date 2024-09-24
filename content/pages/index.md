@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Alfama
-    subtitle: 'Pelos Becos de Alfama: Retratos de Tradição e Modernidade"'
+    subtitle: Retratos de Tradição e Modernidade"
     text: >
       Alfama é frequentemente chamada de "aldeia urbana" de Lisboa devido às
       suas características únicas, que se assemelham a uma pequena aldeia dentro
