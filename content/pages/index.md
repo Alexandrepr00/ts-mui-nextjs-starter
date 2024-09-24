@@ -6,8 +6,9 @@ sections:
     title: Alfama
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      Alfama é frequentemente chamada de "aldeia urbana" de Lisboa devido às
+      suas características únicas, que se assemelham a uma pequena aldeia dentro
+      de uma grande cidade. Isso se deve a vários fatores: [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
