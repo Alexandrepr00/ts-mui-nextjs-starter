@@ -34,7 +34,7 @@ sections:
         title: Imagens
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/alfama-lisbon-guide-3229600432.jpg
           altText: First item image
         text: ''
         actions:
