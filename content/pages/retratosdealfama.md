@@ -87,10 +87,17 @@ sections:
             color: primary
       - type: Card
         title: Identidade
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          As Desigualdades Sociais em Alfama: Tradição e Exclusão
+
+
+
+
+
+
+
+
+
         image:
           type: Image
           url: /images/alfama-lisbon-guide-3229600432.jpg
