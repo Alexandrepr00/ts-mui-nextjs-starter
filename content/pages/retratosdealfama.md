@@ -54,7 +54,7 @@ sections:
             color: primary
       - type: Card
         title: |-
-          . A
+          A
           Transformação Urbana de Alfama: Entre o Passado e o Futuro
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
