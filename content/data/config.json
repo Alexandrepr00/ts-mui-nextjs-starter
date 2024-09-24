@@ -23,22 +23,5 @@
                 "underline": "hover"
             }
         ]
-    },
-    "footer": {
-        "copyrightText": "",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "About",
-                "underline": "hover",
-                "url": "/about"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
-            }
-        ]
     }
 }
