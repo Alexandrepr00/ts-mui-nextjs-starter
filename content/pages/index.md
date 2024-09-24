@@ -26,7 +26,7 @@ sections:
     image:
       type: Image
       url: /images/alfama-lisbon-guide-3229600432.jpg
-      altText: Hero section image
+      altText: Imagem representativa de Alfama
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
