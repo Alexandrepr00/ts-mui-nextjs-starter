@@ -36,7 +36,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: /A Preservação da Tradição em Tempos Modernos
             size: medium
             variant: text
             color: primary
