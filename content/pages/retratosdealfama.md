@@ -87,10 +87,13 @@ sections:
             color: primary
       - type: Card
         title: 'As Desigualdades Sociais em Alfama: Tradição e Exclusão'
-        text: |+
-          As Desigualdades Sociais em Alfama: Tradição e Exclusão
+        text: >+
+          As disparidades sociais no bairro, abordando como a
 
+          convivência entre moradores de longa data e novos residentes mais
+          abastados tem
 
+          gerado tensões ou desafios.
 
 
 
