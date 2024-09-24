@@ -72,7 +72,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/alfama-lisbon-guide-3229600432.jpg
           altText: Third item image
         actions:
           - type: Button
