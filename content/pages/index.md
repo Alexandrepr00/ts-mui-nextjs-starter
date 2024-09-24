@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Alfama
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: ''
     text: >
       Alfama é frequentemente chamada de "aldeia urbana" de Lisboa devido às
       suas características únicas, que se assemelham a uma pequena aldeia dentro
