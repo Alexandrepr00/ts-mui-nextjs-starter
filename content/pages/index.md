@@ -54,6 +54,12 @@ sections:
             label: ''
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: small
+          - type: Button
+            label: Learn more
+            url: retratosdealfamavideos
+            size: medium
+            variant: text
+            color: primary
       - type: Card
         title: Áudios
         image:
