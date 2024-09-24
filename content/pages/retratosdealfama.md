@@ -3,7 +3,7 @@ type: Page
 title: Retratos de Alfama
 sections:
   - type: HeroSection
-    title: Retratos de Alfama
+    title: Os becos de Alfama
     subtitle: Retratos de Tradição e Modernidade
     text: >
       Alfama é frequentemente chamada de "aldeia urbana" de Lisboa devido às
